@@ -5,7 +5,11 @@
 - Matplotlib
 - Kivy
 ## How to run program
-1. Download the code
+1. Download the code at [github](https://github.com/bloop132435/cai)
+    ```
+    git clone https://github.com/bloop132435/cai
+    cd cai
+    ```
 2. Run the app by typing the command `python3 main.py` once in the cai directory
 ## Screenshots
 <figure>
