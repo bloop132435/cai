@@ -1,9 +1,9 @@
 # AI Visualizer
 ## Dependencies
-- Python 3
-- NumPy
-- Matplotlib
-- Kivy
+- [Python 3](https://www.python.org/)
+- [NumPy](https://www.numpy.org/)
+- [Matplotlib](https://www.matplotlib.org/)
+- [Kivy](https://www.kivy.org/)
 ## How to run program
 1. Download the code at [github](https://github.com/bloop132435/cai)
     ```
